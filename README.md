@@ -290,7 +290,7 @@ To run unittests across multiple Python versions, first install the necessary Py
 
     sudo add-apt-repository ppa:deadsnakes/ppa
     sudo apt-get update
-    sudo apt-get install python-dev python3.3-minimal python3.3-dev python3.4-minimal python3.4-dev python3.5-minimal python3.5-dev python3.6 python3.6-dev
+    sudo apt-get install python-dev python3.4-minimal python3.4-dev python3.5-minimal python3.5-dev python3.6 python3.6-dev
 
 Then to run all [tests](http://tox.readthedocs.org/en/latest/):
 
